@@ -309,7 +309,7 @@ These results demonstrate the importance of provider-level analysis alongside na
 
 ## 🖼️ Dashboard Preview
 
-![NHS England A&E Performance Dashboard](screenshots/dashboard.png)
+![NHS England A&E Performance Dashboard](screenshots/nhs_ae_dashboard.png)
 
 The dashboard presents four-hour performance trends, regional comparisons, monthly 12-hour waits, and the ten lowest-performing NHS providers.
 
